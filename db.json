@@ -702,6 +702,812 @@
     }
   ],
   "cart": [
-   
+
+  ],
+  "lecture": [
+    {
+      "id": 1,
+      "title": "Scrum (15-05-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 8 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "Fullstack CRUD - I ",
+      "author": "Pulkit Tyagi Scheduled Coding at 15 May,23 - 9: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Scrum (16-05-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Fullstack CRUD - II ",
+      "author": "Pulkit Tyagi Scheduled Coding at 16 May,23 - 9: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 9 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - 2D Matrix ",
+      "author": "Bicky Scheduled Dsa at 15 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 10 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - SubArray and SubString PSC ",
+      "author": "Bicky Scheduled Dsa at 16 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Scrum (17-05-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 11 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "Mongoose - I ",
+      "author": "Pulkit Tyagi Scheduled Coding at 17 May,23 - 9: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Scrum (18-03-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Mongoose - II",
+      "author": "Pulkit Tyagi Scheduled Coding at 18 May,23 - 9: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 12 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - Objects - Mapping and Frequency 1 ",
+      "author": "Bicky Scheduled Dsa at 17 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 15 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - Array and String ",
+      "author": "Bicky Scheduled Dsa at 18 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Scrum (19-05-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 16 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "Express-I",
+      "author": "Pulkit Tyagi Scheduled Coding at 19 May,23 - 9: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Scrum (20-03-2023)",
+      "author": "Rishav Mudgal Scheduled Scrum at 18 May, 23 - 11:06 am",
+      "attendence": "Present",
+      "category": "",
+      "instructure": "Yogesh Bhat",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "Middlewere and Authentication ",
+      "author": "Pulkit Tyagi Scheduled Coding at 20 May,23 - 9: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 17 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - Objects - Mapping and Frequency 2 ",
+      "author": "Bicky Scheduled Dsa at 19 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components) ",
+      "author": "Chandra Sekhar Scheduled Coding at 18 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes"
+    },
+    {
+      "id": 1,
+      "title": "DSA - Traversals and Diagonals",
+      "author": "Bicky Scheduled Dsa at 20 May,23 - 2: 00 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no"
+    },
+    {
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 8 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "type": "live",
+      "instructure": "Chandra Sekhar",
+      "optional": "no",
+      "id": 2
+    },
+    {
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Pulkit Tyagi Scheduled Coding at 16 May,23 - 9: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "id": 3
+    },
+    {
+      "title": "Dsa Master class by Bicky at 25 May, 9pm",
+      "author": "Bicky starting this at 25 May ,9pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "type": "live",
+      "instructure": "Bicky",
+      "optional": "no",
+      "id": 4
+    },
+    {
+      "title": "DSA-401 Master class on recursion at 6pm,25 May",
+      "author": "Bicky Startin at  6pm,25 May",
+      "attendence": "Present",
+      "category": "Dsa",
+      "type": "live",
+      "instructure": "Bicky",
+      "optional": "no",
+      "id": 5
+    },
+    {
+      "title": "Mongo CRUD operation LIVE-I",
+      "author": "Pulkit Tyagi stating at 25 May, 9pm",
+      "category": "coading",
+      "type": "live",
+      "instructure": "Pulkit",
+      "optional": "no",
+      "id": 6
+    }
+  ],
+  "schedule": [
+  
+  ],
+  "assignment": [
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 8 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Swagger API Documentation CODING",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 24 Mar,23 - 11: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Fullstack CRUD - I",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 25 Mar,23 - 11: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 9 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 1 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 23 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 10 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 2 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 24 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 11 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Fullstack CRUD - II ",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 26 Mar,23 - 11: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Mongoose - I",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 27 Mar,23 - 11: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 12 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 3 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 25 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "React-interview important questions",
+      "author": "Chandra Sekhar Scheduled Coding at 15 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 4 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 26 Mar,26 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 16 May,23 - 11: 30 am",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Express-I",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 28 Mar,23 - 11: 00 pm",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Middlewere and Authentication ",
+      "author": "Pulkit Tyagi Created Assignment Problem's at 29 Mar,23 - 11: 00 pm",
+      "attendence": "Present",
+      "category": "coading",
+      "instructure": "Pulkit",
+      "type": "live",
+      "optional": "no",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components)",
+      "author": "Chandra Sekhar Scheduled Coding at 17 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 5 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 27 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "React - Event handling - Conditional Rendering (Class components) ",
+      "author": "Chandra Sekhar Scheduled Coding at 18 May,23 - 11: 30 am",
+      "attendence": "Absent",
+      "category": "coading",
+      "instructure": "Chandra Sekhar",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "DSA421_B24 CONTEST - 6 DSA",
+      "author": "Omkar Tripathi Created Assignment Problem's at 28 Mar,28 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Omkar Tripathi",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "DSA101_B24 CONTEST - 2 DSA",
+      "author": "Bicky Created Assignment Problem's at 2 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    },
+    {
+      "id": 1,
+      "title": "DSA101_B24 CONTEST - 3 DSA",
+      "author": "Bicky Created Assignment Problem's at 3 Mar,23 - 5: 55 pm",
+      "attendence": "Present",
+      "category": "Dsa",
+      "instructure": "Bicky",
+      "type": "live",
+      "optional": "no",
+      "status": "Progress"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "title": "B22 PS 301 - A... EVALUATION",
+      "author": "Harshal Sawant Scheduled Csbt at 16 Jan,23 - 6: 00 pm",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "45min",
+      "details": "Kindly go throu..."
+    },
+    {
+      "id": 2,
+      "title": "PS 201 - A2 Eva... EVALUATION",
+      "author": "Divya Sheeroju Scheduled Csbt at 12 Dec,22 - 7: 00 pm",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Divya Sheeroju",
+      "type": "video",
+      "optional": "yes",
+      "status": "Pending",
+      "duration": "45min",
+      "details": "Read this blog:..."
+    },
+    {
+      "id": 3,
+      "title": "PS101_B20_A2_Ev... EVALUATION",
+      "author": "Avinash Patro Scheduled Csbt at 7 Nov,22 - 9: 30 am",
+      "category": "Csbt",
+      "instructure": "Avinash Patro",
+      "type": "video",
+      "optional": "yes",
+      "status": "Pending",
+      "duration": "45min",
+      "details": "Read this blog:..."
+    }
+  ],
+  "announcement": [
+    {
+      "id": 1,
+      "title": "Construct Week Round 2 Best Project Presentation",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "20 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    },
+    {
+      "id": 2,
+      "title": "Construct Week Round 2 Best Project Presentation",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "21 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    },
+    {
+      "id": 3,
+      "title": "Construct Week Round 2 Best Project Presentation",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "22 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    },
+    {
+      "id": 4,
+      "title": "Construct week: Project submission assignments",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "18 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    },
+    {
+      "id": 5,
+      "title": "Construct week: Project submission assignments",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "18 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    },
+    {
+      "id": 6,
+      "title": "Construct week: Project submission assignments",
+      "author": "Shanky",
+      "attendence": "Present",
+      "category": "Csbt",
+      "instructure": "Harshal",
+      "type": "video",
+      "optional": "yes",
+      "status": "Completed",
+      "duration": "18 Apr, 23 - 6:00 pm | 30 Apr, 23 - 5:00 pm",
+      "details": "[FT-WEB-22 RM-101-B25]"
+    }
+  ],
+  "notification": [
+    {
+      "id": 1,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "placement-support - placements (Please Update my Github link properly on p...",
+      "nature": "tickets",
+      "details": "2 May, 23 - 11:14 am"
+    },
+    {
+      "id": 2,
+      "title": "New Ticket Response - Pramoudh",
+      "author": "Please Update my Github link properly on placement.com masai school , iti...,",
+      "nature": "tickets",
+      "details": "3 May, 23 - 10:14 am"
+    },
+    {
+      "id": 3,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "revision - operations (Interviewer not start the meeting at time i was wai...",
+      "nature": "tickets",
+      "details": "17 May,23-11:22 pm"
+    },
+    {
+      "id": 4,
+      "title": "New Ticket Response - Suhail Khan",
+      "author": "Interviewer not start the meeting at time i was wait for 30 minutes...",
+      "nature": "tickets",
+      "details": "5 May, 23-09:22 am"
+    },
+    {
+      "id": 5,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "revision - operations (Not able to Book DSA Schedule now)...",
+      "nature": "tickets",
+      "details": "5 April,23-08:50 pm"
+    },
+    {
+      "id": 6,
+      "title": "New Announcement - Shanky",
+      "author": "Construct Week Round 2 Best Project Presentation...",
+      "nature": "tickets",
+      "details": "15 April,23-11:50 pm"
+    },
+    {
+      "id": 1,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "placement-support - placements (Please Update my Github link properly on p...",
+      "nature": "tickets",
+      "details": "2 May,23-11:14 am"
+    },
+    {
+      "id": 2,
+      "title": "New Ticket Response - Pramoudh",
+      "author": "Please Update my Github link properly on placement.com masai school , iti...,",
+      "nature": "tickets",
+      "details": "3 May,23-10:14 am"
+    },
+    {
+      "id": 3,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "revision - operations (Interviewer not start the meeting at time i was wai...",
+      "nature": "tickets",
+      "details": "17 May,23-11:22 pm"
+    },
+    {
+      "id": 4,
+      "title": "New Ticket Response - Suhail Khan",
+      "author": "Interviewer not start the meeting at time i was wait for 30 minutes...",
+      "nature": "tickets",
+      "details": "5 May,23-09:22 am"
+    },
+    {
+      "id": 5,
+      "title": "Ticket - RESOLVED Suhail Khan [fw21_0245]",
+      "author": "revision - operations (Not able to Book DSA Schedule now)...",
+      "nature": "tickets",
+      "details": "5 April,23-08:50 pm"
+    },
+    {
+      "id": 6,
+      "title": "New Announcement - Shanky",
+      "author": "Construct Week Round 2 Best Project Presentation...",
+      "nature": "tickets",
+      "details": "15 April,23-11:50 pm"
+    }
+  ],
+  "tickets": [
+    {
+      "category": "Leave",
+      "title": "attendence shown absent",
+      "description": "i was Present in the class but there is shown absent on 15may. please look it . thankyou",
+      "id": 1
+    },
+    {
+      "category": "Leave",
+      "title": "I want leave due to medical emergency",
+      "description": "Dear team i want to leave due to some medical emergency in my family.thankyou",
+      "id": 2
+    },
+    {
+      "category": "Evalution",
+      "title": "missed evalution",
+      "description": "i missed becuse of laptop shutdown",
+      "id": 3
+    }
   ]
+
 }
