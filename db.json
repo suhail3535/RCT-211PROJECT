@@ -1026,7 +1026,7 @@
     }
   ],
   "schedule": [
-  
+
   ],
   "assignment": [
     {
@@ -1038,7 +1038,7 @@
       "instructure": "Chandra Sekhar",
       "type": "video",
       "optional": "yes",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1060,7 +1060,7 @@
       "instructure": "Pulkit",
       "type": "live",
       "optional": "no",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1093,7 +1093,7 @@
       "instructure": "Chandra Sekhar",
       "type": "video",
       "optional": "yes",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1137,7 +1137,7 @@
       "instructure": "Pulkit",
       "type": "live",
       "optional": "no",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1203,7 +1203,7 @@
       "instructure": "Pulkit",
       "type": "live",
       "optional": "no",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1225,7 +1225,7 @@
       "instructure": "Chandra Sekhar",
       "type": "video",
       "optional": "yes",
-      "status": "Completed"
+      "status": "New"
     },
     {
       "id": 1,
@@ -1280,7 +1280,7 @@
       "instructure": "Bicky",
       "type": "live",
       "optional": "no",
-      "status": "Progress"
+      "status": "Completed"
     }
   ],
   "quiz": [
