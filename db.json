@@ -5488,5 +5488,42 @@
       "Brand": "SASSAFRAS",
       "Discount Final": "65% off"
     }
-  ]
+  ],
+    "contactsdetails": [
+      {
+        "name": "suhail khan",
+        "email": "Khansohail015@gmail.com",
+        "mobile": "08630245788",
+        "query": "hello i want to about silver pack",
+        "id": 1
+      },
+      {
+        "name": "sahil khan",
+        "email": "Khansohail015@gmail.com",
+        "mobile": "08630245788",
+        "query": "hello i want to about silver pack",
+        "id": 2
+      },
+      {
+        "name": "amar",
+        "email": "Khansohail015@gmail.com",
+        "mobile": "08630245788",
+        "query": "hello i want to about silver pack",
+        "id": 3
+      },
+      {
+        "name": "mohit gautam",
+        "email": "khansohail015@gmail.com",
+        "mobile": "+919598125005",
+        "query": "hello from mohit",
+        "id": 4
+      },
+      {
+        "name": "raja ram",
+        "email": "raja@gmail.com",
+        "mobile": "98989897861",
+        "query": "hello from rja ram",
+        "id": 5
+      }
+    ]
 }
